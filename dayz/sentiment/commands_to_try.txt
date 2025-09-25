@@ -1,0 +1,7 @@
+Command 1 -
+docker run --rm sentiment-app "I am having a terrible day."
+
+
+Command 2 -
+docker run --rm -v model-cache:/root/.cache/huggingface sentiment-app "I am on of the happiest person on the planet earth"
+
