@@ -1,7 +1,7 @@
 resource/
 tada.db
 dataset/
-
+rezum/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
